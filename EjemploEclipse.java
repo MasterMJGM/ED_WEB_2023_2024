@@ -2,7 +2,7 @@ package mates;
 
 public class operaciones {
 		
-    public static int suma(int a, int b) {
+    public static int suma_enteros(int a, int b) {
         return a + b;
     }
 
